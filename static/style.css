@@ -1,0 +1,12 @@
+button {
+  background: #00d46a !important;
+}
+
+footer {
+  display: none !important;
+}
+
+p.signin a, .active {
+  color: #00d46a !important;
+}
+

@@ -1,0 +1,10 @@
+{
+  "name": "wedeploychat",
+  "version": "0.1.0",
+  "dependencies": {
+    "slackin": "^0.13.0"
+  },
+  "scripts": {
+    "start": "slackin --port 80 --css http://static.alagoasdevslack.wedeploy.io/style.css \"T2MG66MD4\" $SLACK_TOKEN "
+  }
+}
