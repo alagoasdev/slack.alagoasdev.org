@@ -5,6 +5,6 @@
     "slackin": "^0.13.0"
   },
   "scripts": {
-    "start": "slackin --port 8089 --css $SLACK_STYLE \"T2MG66MD4\" $SLACK_TOKEN "
+    "start": "slackin --port 80 \"T2MG66MD4\" $SLACK_TOKEN "
   }
 }
